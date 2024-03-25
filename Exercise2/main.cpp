@@ -62,5 +62,7 @@ int main()
     ifs.close();
     ofs.close();
 
+    std::cout << "Wow" << std::endl;
+
     return 0;
 }
